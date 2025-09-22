@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<CROSSFIRE>
+    <VERSION>1</VERSION>
+    <TITLE/>
+    <AUTHOR/>
+    <COPYRIGHT/>
+    <GRID width="11">
+MALL.STITCH
+ALIE.TATTOO
+ROOT.RIS.MT
+CENTRAL.WED
+...EAP.OHIO
+SCARY.WRONG
+URLS.TED...
+BUT.SITEMAP
+WI.BAM.ROMA
+ASSUME.EVER
+YESYES.DESK
+</GRID>
+    <WORDS>
+        <WORD dir="ACROSS" id="0" isTheme="false" num="1">Edmonton has a giant one of these, if not one of the biggest</WORD>
+        <WORD dir="ACROSS" id="1" isTheme="false" num="5">Name of Nic's dog</WORD>
+        <WORD dir="ACROSS" id="2" isTheme="false" num="11">First four letters of creature from outer space</WORD>
+        <WORD dir="ACROSS" id="3" isTheme="false" num="12">What Laurel has on her skin, in a few places, one looks like a post it note</WORD>
+        <WORD dir="ACROSS" id="4" isTheme="false" num="13">___ beer</WORD>
+        <WORD dir="ACROSS" id="5" isTheme="false" num="14">Statement about the 18th letter</WORD>
+        <WORD dir="ACROSS" id="6" isTheme="false" num="15">Timezone we are in</WORD>
+        <WORD dir="ACROSS" id="7" isTheme="false" num="16">Park in center of NY</WORD>
+        <WORD dir="ACROSS" id="8" isTheme="false" num="18">What we did June 18, 2016, for short</WORD>
+        <WORD dir="ACROSS" id="9" isTheme="false" num="19">Edgar Allan Poe’s initials</WORD>
+        <WORD dir="ACROSS" id="10" isTheme="false" num="20">State with Cleveland and Columbus</WORD>
+        <WORD dir="ACROSS" id="11" isTheme="false" num="21">Frightening</WORD>
+        <WORD dir="ACROSS" id="12" isTheme="false" num="24">Opposite of right</WORD>
+        <WORD dir="ACROSS" id="13" isTheme="false" num="25">Web addresses</WORD>
+        <WORD dir="ACROSS" id="14" isTheme="false" num="26">“How I Met Your Mother” protagonist</WORD>
+        <WORD dir="ACROSS" id="15" isTheme="false" num="27">Word that flips a sentence around</WORD>
+        <WORD dir="ACROSS" id="16" isTheme="false" num="28">Website’s index file</WORD>
+        <WORD dir="ACROSS" id="17" isTheme="false" num="32">Region code for wisconsin</WORD>
+        <WORD dir="ACROSS" id="18" isTheme="false" num="33">___ Margera (skateboarder/Jackass star)</WORD>
+        <WORD dir="ACROSS" id="19" isTheme="false" num="34">
+capitale d'italia</WORD>
+        <WORD dir="ACROSS" id="20" isTheme="false" num="35">Take for granted</WORD>
+        <WORD dir="ACROSS" id="21" isTheme="false" num="37">“Happily ___ after”</WORD>
+        <WORD dir="ACROSS" id="22" isTheme="false" num="38">What Bernie might say</WORD>
+        <WORD dir="ACROSS" id="23" isTheme="false" num="39">Office furniture</WORD>
+        <WORD dir="DOWN" id="24" isTheme="false" num="1">____ Kennedy</WORD>
+        <WORD dir="DOWN" id="26" isTheme="false" num="2">Plant in soothing gel</WORD>
+        <WORD dir="DOWN" id="28" isTheme="false" num="3">Broadway’s “The ___ King”</WORD>
+        <WORD dir="DOWN" id="31" isTheme="false" num="4">Crossword puzzle is full of these</WORD>
+        <WORD dir="DOWN" id="35" isTheme="false" num="5">Part of your watch that turned green-ish</WORD>
+        <WORD dir="DOWN" id="37" isTheme="false" num="6">Animal’s back end</WORD>
+        <WORD dir="DOWN" id="39" isTheme="false" num="7">Grammar teacher’s pet peeve</WORD>
+        <WORD dir="DOWN" id="41" isTheme="false" num="8">Anthropomorphic stopwatch in Diddy Kong Racing</WORD>
+        <WORD dir="DOWN" id="44" isTheme="false" num="9">Phrase to enter a room</WORD>
+        <WORD dir="DOWN" id="46" isTheme="false" num="10">We watched some YouTube videos about a guy going around reviewing this</WORD>
+        <WORD dir="DOWN" id="33" isTheme="false" num="17">Jazz musician Charles</WORD>
+        <WORD dir="DOWN" id="42" isTheme="false" num="18">Band behind “Baba O’Riley”</WORD>
+        <WORD dir="DOWN" id="40" isTheme="false" num="20">“I ___ a bagel and lox”</WORD>
+        <WORD dir="DOWN" id="25" isTheme="false" num="21">“Take the ___ to Times Square”</WORD>
+        <WORD dir="DOWN" id="27" isTheme="false" num="22">What ships do around Manhattan</WORD>
+        <WORD dir="DOWN" id="29" isTheme="false" num="23">Key on a keyboard</WORD>
+        <WORD dir="DOWN" id="38" isTheme="false" num="24">Condition of a New York street after rain</WORD>
+        <WORD dir="DOWN" id="36" isTheme="false" num="26">___ Square</WORD>
+        <WORD dir="DOWN" id="34" isTheme="false" num="28">Not different</WORD>
+        <WORD dir="DOWN" id="43" isTheme="false" num="29">"____ bitch, get out of the way" - Karrick's fave song</WORD>
+        <WORD dir="DOWN" id="45" isTheme="false" num="30">Iowa city</WORD>
+        <WORD dir="DOWN" id="47" isTheme="false" num="31">Central ____</WORD>
+        <WORD dir="DOWN" id="32" isTheme="false" num="33">Purchase</WORD>
+        <WORD dir="DOWN" id="30" isTheme="false" num="36">Nazi paramilitary (historical)</WORD>
+    </WORDS>
+    <NOTES/>
+</CROSSFIRE>

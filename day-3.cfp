@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<CROSSFIRE>
+    <VERSION>1</VERSION>
+    <TITLE/>
+    <AUTHOR/>
+    <COPYRIGHT/>
+    <GRID width="15">
+BASS.CUPS.PLACE
+RICE.UPRI.LEWIS
+IRON.RHET.ATEAT
+ESTABLISHING...
+RATTAILS.STONES
+....SNL.ALS.ERA
+SEAPIG.TIE.SWAN
+HATES.TOM.TEASE
+ERLE.LEO.BITTER
+ETE.MAN.LIT....
+THERES.HOGLINES
+...ASTRANGELOOP
+ALDIS.EDGE.HOLE
+PAUSE.ETES.ASIN
+SPEED.SORT.NEAT
+</GRID>
+    <WORDS>
+        <WORD dir="ACROSS" id="0" isTheme="false" num="1">Low-pitched guitar</WORD>
+        <WORD dir="ACROSS" id="1" isTheme="false" num="5">Drinking vessels</WORD>
+        <WORD dir="ACROSS" id="2" isTheme="false" num="9">“There’s no ___ like home”</WORD>
+        <WORD dir="ACROSS" id="3" isTheme="false" num="14">___ Krispies</WORD>
+        <WORD dir="ACROSS" id="4" isTheme="false" num="15">Union Pacific Resources Inc</WORD>
+        <WORD dir="ACROSS" id="5" isTheme="false" num="16">____ Estates LRT Stop</WORD>
+        <WORD dir="ACROSS" id="6" isTheme="false" num="17">What we were/are low on</WORD>
+        <WORD dir="ACROSS" id="7" isTheme="false" num="18">Effective use of lang</WORD>
+        <WORD dir="ACROSS" id="8" isTheme="false" num="19">a nipple of the mammary gland is called _ ____</WORD>
+        <WORD dir="ACROSS" id="9" isTheme="false" num="20">___ shot (movie intro)</WORD>
+        <WORD dir="ACROSS" id="10" isTheme="false" num="23">Unfashionable hairstyles</WORD>
+        <WORD dir="ACROSS" id="11" isTheme="false" num="24">Rocks</WORD>
+        <WORD dir="ACROSS" id="12" isTheme="false" num="28">“Live from New York, it’s ___!”</WORD>
+        <WORD dir="ACROSS" id="13" isTheme="false" num="29">Lou Gehrig’s disease, briefly</WORD>
+        <WORD dir="ACROSS" id="14" isTheme="false" num="30">Taylor Swift's ___s tour</WORD>
+        <WORD dir="ACROSS" id="15" isTheme="false" num="31">Another name for ocean hog</WORD>
+        <WORD dir="ACROSS" id="16" isTheme="false" num="35">Curling games usually don't end in this.</WORD>
+        <WORD dir="ACROSS" id="17" isTheme="false" num="36">The Ugly Duckling’s glow-up</WORD>
+        <WORD dir="ACROSS" id="18" isTheme="false" num="37">Strongly dislikes</WORD>
+        <WORD dir="ACROSS" id="19" isTheme="false" num="38">First name of Riddle</WORD>
+        <WORD dir="ACROSS" id="20" isTheme="false" num="39">Make fun of</WORD>
+        <WORD dir="ACROSS" id="21" isTheme="false" num="40">Old German name meaning nobleman</WORD>
+        <WORD dir="ACROSS" id="22" isTheme="false" num="41">First name of actor in Wolf of Wall Street</WORD>
+        <WORD dir="ACROSS" id="23" isTheme="false" num="42">What curlers feel after a tough loss, or opposite of sweet</WORD>
+        <WORD dir="ACROSS" id="24" isTheme="false" num="43">Summer, in Paris</WORD>
+        <WORD dir="ACROSS" id="25" isTheme="false" num="44">Adult male</WORD>
+        <WORD dir="ACROSS" id="26" isTheme="false" num="45">Getting ___ on a Friday night</WORD>
+        <WORD dir="ACROSS" id="27" isTheme="false" num="46">“___ no place like home”</WORD>
+        <WORD dir="ACROSS" id="28" isTheme="false" num="48">Lines stones must cross to be legal</WORD>
+        <WORD dir="ACROSS" id="29" isTheme="false" num="53">Pulitzer-winning musical (2019)</WORD>
+        <WORD dir="ACROSS" id="30" isTheme="false" num="55">Discount grocer chain</WORD>
+        <WORD dir="ACROSS" id="31" isTheme="false" num="58">"It's ____ on ____".  Rock that lines up with another rock</WORD>
+        <WORD dir="ACROSS" id="32" isTheme="false" num="59">"There's no ___".  What you say when you're trying to convince the other team you're guard is good enough</WORD>
+        <WORD dir="ACROSS" id="33" isTheme="false" num="60">Remote button command</WORD>
+        <WORD dir="ACROSS" id="34" isTheme="false" num="61">Opposite of hivers</WORD>
+        <WORD dir="ACROSS" id="35" isTheme="false" num="62">Clarifying phrase</WORD>
+        <WORD dir="ACROSS" id="36" isTheme="false" num="63">"What's the ____ here?"  - Question asked by thrower, hoping the sweepers have been timing rocks.</WORD>
+        <WORD dir="ACROSS" id="37" isTheme="false" num="64">Organize</WORD>
+        <WORD dir="ACROSS" id="38" isTheme="false" num="65">The opposite of our basement, most days</WORD>
+        <WORD dir="DOWN" id="39" isTheme="false" num="1">Event I go to on my birthday</WORD>
+        <WORD dir="DOWN" id="42" isTheme="false" num="2">Random abbr. filler (crossword-style)</WORD>
+        <WORD dir="DOWN" id="45" isTheme="false" num="3">First word of tournament you went to in St. Catharines</WORD>
+        <WORD dir="DOWN" id="48" isTheme="false" num="4">French parliament chamber</WORD>
+        <WORD dir="DOWN" id="53" isTheme="false" num="5">Dying sport</WORD>
+        <WORD dir="DOWN" id="55" isTheme="false" num="6">When the ice is slow in one direction, it's ______</WORD>
+        <WORD dir="DOWN" id="58" isTheme="false" num="7">Iron clothes</WORD>
+        <WORD dir="DOWN" id="61" isTheme="false" num="8">Opposite of Jedi - ____ Lord</WORD>
+        <WORD dir="DOWN" id="66" isTheme="false" num="9">Greenhouse residents</WORD>
+        <WORD dir="DOWN" id="68" isTheme="false" num="10">What you do to the rock at the hogline</WORD>
+        <WORD dir="DOWN" id="71" isTheme="false" num="11">What you say a lot when Finn is around</WORD>
+        <WORD dir="DOWN" id="74" isTheme="false" num="12">U.S. spy agency</WORD>
+        <WORD dir="DOWN" id="77" isTheme="false" num="13">Common shortening used for business to let customers know when they started their business</WORD>
+        <WORD dir="DOWN" id="51" isTheme="false" num="21">Foundation</WORD>
+        <WORD dir="DOWN" id="64" isTheme="false" num="22">Island</WORD>
+        <WORD dir="DOWN" id="72" isTheme="false" num="25">Sometimes you teach people who are ___ __ curling (2 words_</WORD>
+        <WORD dir="DOWN" id="75" isTheme="false" num="26">Wipe clean</WORD>
+        <WORD dir="DOWN" id="78" isTheme="false" num="27">Opposite of crazier</WORD>
+        <WORD dir="DOWN" id="62" isTheme="false" num="29">You should ___ for the broom</WORD>
+        <WORD dir="DOWN" id="40" isTheme="false" num="31">Playing surface in curling</WORD>
+        <WORD dir="DOWN" id="43" isTheme="false" num="32">Planet we live on</WORD>
+        <WORD dir="DOWN" id="46" isTheme="false" num="33">Former British PM Clement ___</WORD>
+        <WORD dir="DOWN" id="49" isTheme="false" num="34">What Riley refuses to do sometimes before we have to leave somewhere</WORD>
+        <WORD dir="DOWN" id="59" isTheme="false" num="35">Also</WORD>
+        <WORD dir="DOWN" id="69" isTheme="false" num="36">"Put a mini-___ for a peel" - Rob Krepps</WORD>
+        <WORD dir="DOWN" id="56" isTheme="false" num="38">Number of ends in playdowns</WORD>
+        <WORD dir="DOWN" id="67" isTheme="false" num="39">Book’s name</WORD>
+        <WORD dir="DOWN" id="54" isTheme="false" num="41">Skip throws the ___ stone</WORD>
+        <WORD dir="DOWN" id="65" isTheme="false" num="42">Most enormous</WORD>
+        <WORD dir="DOWN" id="52" isTheme="false" num="44">Slangy “ruined”</WORD>
+        <WORD dir="DOWN" id="63" isTheme="false" num="45">Not shorter</WORD>
+        <WORD dir="DOWN" id="50" isTheme="false" num="47">A curling shot for bumping up a guard</WORD>
+        <WORD dir="DOWN" id="60" isTheme="false" num="48">Couldn’t avoid [2 wds.]</WORD>
+        <WORD dir="DOWN" id="70" isTheme="false" num="49">Congresswoman Omar’s first name</WORD>
+        <WORD dir="DOWN" id="73" isTheme="false" num="50">Hanging instrument</WORD>
+        <WORD dir="DOWN" id="76" isTheme="false" num="51">Ancient Greek land of Aeolus</WORD>
+        <WORD dir="DOWN" id="79" isTheme="false" num="52">Exhausted</WORD>
+        <WORD dir="DOWN" id="57" isTheme="false" num="54">Actor Roger ___</WORD>
+        <WORD dir="DOWN" id="41" isTheme="false" num="55">American Physical Society</WORD>
+        <WORD dir="DOWN" id="44" isTheme="false" num="56">Part of a race</WORD>
+        <WORD dir="DOWN" id="47" isTheme="false" num="57">Owed</WORD>
+    </WORDS>
+    <NOTES/>
+</CROSSFIRE>
