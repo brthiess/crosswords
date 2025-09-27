@@ -20,62 +20,62 @@ RIDE.LEA.ARSE
 ELSE.EST.LES.
 </GRID>
     <WORDS>
-        <WORD dir="ACROSS" id="0" isTheme="false" num="1"/>
-        <WORD dir="ACROSS" id="1" isTheme="false" num="5"/>
-        <WORD dir="ACROSS" id="2" isTheme="false" num="8"/>
-        <WORD dir="ACROSS" id="3" isTheme="false" num="12"/>
-        <WORD dir="ACROSS" id="4" isTheme="false" num="13"/>
-        <WORD dir="ACROSS" id="5" isTheme="false" num="14"/>
-        <WORD dir="ACROSS" id="6" isTheme="false" num="15"/>
-        <WORD dir="ACROSS" id="7" isTheme="false" num="16"/>
-        <WORD dir="ACROSS" id="8" isTheme="false" num="17"/>
-        <WORD dir="ACROSS" id="9" isTheme="false" num="18"/>
-        <WORD dir="ACROSS" id="10" isTheme="false" num="19"/>
-        <WORD dir="ACROSS" id="11" isTheme="false" num="21"/>
-        <WORD dir="ACROSS" id="12" isTheme="false" num="23"/>
-        <WORD dir="ACROSS" id="13" isTheme="false" num="29"/>
-        <WORD dir="ACROSS" id="14" isTheme="false" num="30"/>
-        <WORD dir="ACROSS" id="15" isTheme="false" num="31"/>
-        <WORD dir="ACROSS" id="16" isTheme="false" num="36"/>
-        <WORD dir="ACROSS" id="17" isTheme="false" num="37"/>
-        <WORD dir="ACROSS" id="18" isTheme="false" num="41"/>
-        <WORD dir="ACROSS" id="19" isTheme="false" num="44"/>
-        <WORD dir="ACROSS" id="20" isTheme="false" num="45"/>
-        <WORD dir="ACROSS" id="21" isTheme="false" num="46"/>
-        <WORD dir="ACROSS" id="22" isTheme="false" num="47"/>
-        <WORD dir="ACROSS" id="23" isTheme="false" num="48"/>
-        <WORD dir="ACROSS" id="24" isTheme="false" num="49"/>
-        <WORD dir="ACROSS" id="25" isTheme="false" num="50"/>
-        <WORD dir="ACROSS" id="26" isTheme="false" num="51"/>
-        <WORD dir="ACROSS" id="27" isTheme="false" num="52"/>
-        <WORD dir="DOWN" id="28" isTheme="false" num="1"/>
-        <WORD dir="DOWN" id="30" isTheme="false" num="2"/>
-        <WORD dir="DOWN" id="33" isTheme="false" num="3"/>
-        <WORD dir="DOWN" id="36" isTheme="false" num="4"/>
-        <WORD dir="DOWN" id="39" isTheme="false" num="5"/>
-        <WORD dir="DOWN" id="41" isTheme="false" num="6"/>
-        <WORD dir="DOWN" id="43" isTheme="false" num="7"/>
-        <WORD dir="DOWN" id="46" isTheme="false" num="8"/>
-        <WORD dir="DOWN" id="48" isTheme="false" num="9"/>
-        <WORD dir="DOWN" id="51" isTheme="false" num="10"/>
-        <WORD dir="DOWN" id="54" isTheme="false" num="11"/>
-        <WORD dir="DOWN" id="45" isTheme="false" num="20"/>
-        <WORD dir="DOWN" id="38" isTheme="false" num="22"/>
-        <WORD dir="DOWN" id="31" isTheme="false" num="24"/>
-        <WORD dir="DOWN" id="34" isTheme="false" num="25"/>
-        <WORD dir="DOWN" id="47" isTheme="false" num="26"/>
-        <WORD dir="DOWN" id="49" isTheme="false" num="27"/>
-        <WORD dir="DOWN" id="52" isTheme="false" num="28"/>
-        <WORD dir="DOWN" id="40" isTheme="false" num="32"/>
-        <WORD dir="DOWN" id="42" isTheme="false" num="33"/>
-        <WORD dir="DOWN" id="44" isTheme="false" num="34"/>
-        <WORD dir="DOWN" id="55" isTheme="false" num="35"/>
-        <WORD dir="DOWN" id="29" isTheme="false" num="37"/>
-        <WORD dir="DOWN" id="32" isTheme="false" num="38"/>
-        <WORD dir="DOWN" id="35" isTheme="false" num="39"/>
-        <WORD dir="DOWN" id="37" isTheme="false" num="40"/>
-        <WORD dir="DOWN" id="50" isTheme="false" num="42"/>
-        <WORD dir="DOWN" id="53" isTheme="false" num="43"/>
+        <WORD dir="ACROSS" id="0" isTheme="false" num="1">Abbr. for a California university</WORD>
+        <WORD dir="ACROSS" id="1" isTheme="false" num="5">Dog sound at Pets in the Park.</WORD>
+        <WORD dir="ACROSS" id="2" isTheme="false" num="8">Who you’ll find cooking at Taste of Edmonton.</WORD>
+        <WORD dir="ACROSS" id="3" isTheme="false" num="12">Synonym for city, but smaller.</WORD>
+        <WORD dir="ACROSS" id="4" isTheme="false" num="13">Ticket price indicator: $5 ___ drink.</WORD>
+        <WORD dir="ACROSS" id="5" isTheme="false" num="14">Abrr for move for work, often with stress.</WORD>
+        <WORD dir="ACROSS" id="6" isTheme="false" num="15">“You ___ what you sow.”</WORD>
+        <WORD dir="ACROSS" id="7" isTheme="false" num="16">Pressure measure</WORD>
+        <WORD dir="ACROSS" id="8" isTheme="false" num="17">Opposite of written.</WORD>
+        <WORD dir="ACROSS" id="9" isTheme="false" num="18">Nickname for Phil Esposito</WORD>
+        <WORD dir="ACROSS" id="10" isTheme="false" num="19">Extended hike.</WORD>
+        <WORD dir="ACROSS" id="11" isTheme="false" num="21">Come into view.</WORD>
+        <WORD dir="ACROSS" id="12" isTheme="false" num="23">What some bodybuilders take, but not me</WORD>
+        <WORD dir="ACROSS" id="13" isTheme="false" num="29">One of my Winnipeg cousins with 2 girls</WORD>
+        <WORD dir="ACROSS" id="14" isTheme="false" num="30">Feline version of “meow.”</WORD>
+        <WORD dir="ACROSS" id="15" isTheme="false" num="31">Push back or steady yourself.</WORD>
+        <WORD dir="ACROSS" id="16" isTheme="false" num="36">Opposite of weak.</WORD>
+        <WORD dir="ACROSS" id="17" isTheme="false" num="37">Big August festival normally in Hawrelak Park.</WORD>
+        <WORD dir="ACROSS" id="18" isTheme="false" num="41">Little tricksters.</WORD>
+        <WORD dir="ACROSS" id="19" isTheme="false" num="44">Opposite of odd.</WORD>
+        <WORD dir="ACROSS" id="20" isTheme="false" num="45">How many get to Folk Fest or Heritage Fest</WORD>
+        <WORD dir="ACROSS" id="21" isTheme="false" num="46">Whiskey ____</WORD>
+        <WORD dir="ACROSS" id="22" isTheme="false" num="47">What you do at k-days</WORD>
+        <WORD dir="ACROSS" id="23" isTheme="false" num="48">Actress Michele of Glee.</WORD>
+        <WORD dir="ACROSS" id="24" isTheme="false" num="49">Synonym for bum or british insult</WORD>
+        <WORD dir="ACROSS" id="25" isTheme="false" num="50">Word paired with “something.”</WORD>
+        <WORD dir="ACROSS" id="26" isTheme="false" num="51">Ending for Oktoberf___.</WORD>
+        <WORD dir="ACROSS" id="27" isTheme="false" num="52">___ Misérables.</WORD>
+        <WORD dir="DOWN" id="28" isTheme="false" num="1">_____ Performers Festival</WORD>
+        <WORD dir="DOWN" id="30" isTheme="false" num="2">Female deers</WORD>
+        <WORD dir="DOWN" id="33" isTheme="false" num="3">Switch places.</WORD>
+        <WORD dir="DOWN" id="36" isTheme="false" num="4">Plain, dull writing.</WORD>
+        <WORD dir="DOWN" id="39" isTheme="false" num="5">Candy ___ at K-Days.</WORD>
+        <WORD dir="DOWN" id="41" isTheme="false" num="6">Vacation destination.</WORD>
+        <WORD dir="DOWN" id="43" isTheme="false" num="7">Edmonton’s big theatre festival.</WORD>
+        <WORD dir="DOWN" id="46" isTheme="false" num="8">Raven’s cousin.</WORD>
+        <WORD dir="DOWN" id="48" isTheme="false" num="9">“Give ___ break!” 2 words</WORD>
+        <WORD dir="DOWN" id="51" isTheme="false" num="10">Popular Israel Airline</WORD>
+        <WORD dir="DOWN" id="54" isTheme="false" num="11">Type of music celebrated at Gallagher Park.</WORD>
+        <WORD dir="DOWN" id="45" isTheme="false" num="20">Oktoberfest origin.</WORD>
+        <WORD dir="DOWN" id="38" isTheme="false" num="22">Not showy.</WORD>
+        <WORD dir="DOWN" id="31" isTheme="false" num="24">“To ___ is human.”</WORD>
+        <WORD dir="DOWN" id="34" isTheme="false" num="25">Large saltwater body.</WORD>
+        <WORD dir="DOWN" id="47" isTheme="false" num="26">Unique.</WORD>
+        <WORD dir="DOWN" id="49" isTheme="false" num="27">French for “no.”</WORD>
+        <WORD dir="DOWN" id="52" isTheme="false" num="28">Multiple cries of disgust</WORD>
+        <WORD dir="DOWN" id="40" isTheme="false" num="32">Firm, steady.</WORD>
+        <WORD dir="DOWN" id="42" isTheme="false" num="33">Debates.</WORD>
+        <WORD dir="DOWN" id="44" isTheme="false" num="34">Pounces on. 2 words</WORD>
+        <WORD dir="DOWN" id="55" isTheme="false" num="35">“___ of Edmonton” festival.</WORD>
+        <WORD dir="DOWN" id="29" isTheme="false" num="37">Opposite of there.</WORD>
+        <WORD dir="DOWN" id="32" isTheme="false" num="38">Opposite of good.</WORD>
+        <WORD dir="DOWN" id="35" isTheme="false" num="39">Nickname for Cincinnati’s baseball team.</WORD>
+        <WORD dir="DOWN" id="37" isTheme="false" num="40">Inter-agency Network for Education in Emergencies</WORD>
+        <WORD dir="DOWN" id="50" isTheme="false" num="42">Small amount.</WORD>
+        <WORD dir="DOWN" id="53" isTheme="false" num="43">What you say if someone offers you mint chocolate</WORD>
     </WORDS>
     <NOTES/>
 </CROSSFIRE>

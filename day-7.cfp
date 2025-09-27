@@ -5,23 +5,23 @@
     <AUTHOR/>
     <COPYRIGHT/>
     <GRID width="5">
-.--R-
----I-
----L-
+..IRS
+ABBIE
+DRILL
 HAZEL
----Y.
+DDAY.
 </GRID>
     <WORDS>
-        <WORD dir="ACROSS" id="0" isTheme="false" num="1"/>
-        <WORD dir="ACROSS" id="1" isTheme="false" num="5"/>
-        <WORD dir="ACROSS" id="2" isTheme="false" num="6"/>
-        <WORD dir="ACROSS" id="3" isTheme="false" num="7"/>
-        <WORD dir="ACROSS" id="4" isTheme="false" num="8"/>
-        <WORD dir="DOWN" id="6" isTheme="false" num="1"/>
-        <WORD dir="DOWN" id="7" isTheme="false" num="2"/>
-        <WORD dir="DOWN" id="8" isTheme="false" num="3"/>
-        <WORD dir="DOWN" id="9" isTheme="false" num="4"/>
-        <WORD dir="DOWN" id="5" isTheme="false" num="5"/>
+        <WORD dir="ACROSS" id="0" isTheme="false" num="1">US Tax Or.</WORD>
+        <WORD dir="ACROSS" id="1" isTheme="false" num="4">Girl you coach (spelling may be wrong)</WORD>
+        <WORD dir="ACROSS" id="2" isTheme="false" num="6">Something you do during practice</WORD>
+        <WORD dir="ACROSS" id="3" isTheme="false" num="7">Daughter who loved Cindy</WORD>
+        <WORD dir="ACROSS" id="4" isTheme="false" num="8">Famous WWII battle</WORD>
+        <WORD dir="DOWN" id="7" isTheme="false" num="1">"I took a pill in _______"</WORD>
+        <WORD dir="DOWN" id="8" isTheme="false" num="2">Daughter who's a bit of a loose cannon</WORD>
+        <WORD dir="DOWN" id="9" isTheme="false" num="3">Opposite of buy</WORD>
+        <WORD dir="DOWN" id="5" isTheme="false" num="4">Lack attention</WORD>
+        <WORD dir="DOWN" id="6" isTheme="false" num="5">Loves popcorn</WORD>
     </WORDS>
     <NOTES/>
 </CROSSFIRE>

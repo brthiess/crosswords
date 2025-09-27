@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<CROSSFIRE>
+    <VERSION>1</VERSION>
+    <TITLE/>
+    <AUTHOR/>
+    <COPYRIGHT/>
+    <GRID width="5">
+..IRS
+ABBIE
+DRILL
+HAZEL
+ADA..
+</GRID>
+    <WORDS>
+        <WORD dir="ACROSS" id="0" isTheme="false" num="1"/>
+        <WORD dir="ACROSS" id="1" isTheme="false" num="4"/>
+        <WORD dir="ACROSS" id="2" isTheme="false" num="6"/>
+        <WORD dir="ACROSS" id="3" isTheme="false" num="7"/>
+        <WORD dir="ACROSS" id="4" isTheme="false" num="8"/>
+        <WORD dir="DOWN" id="7" isTheme="false" num="1"/>
+        <WORD dir="DOWN" id="8" isTheme="false" num="2"/>
+        <WORD dir="DOWN" id="9" isTheme="false" num="3"/>
+        <WORD dir="DOWN" id="5" isTheme="false" num="4"/>
+        <WORD dir="DOWN" id="6" isTheme="false" num="5"/>
+    </WORDS>
+    <NOTES/>
+</CROSSFIRE>

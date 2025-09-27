@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<CROSSFIRE>
+    <VERSION>1</VERSION>
+    <TITLE/>
+    <AUTHOR/>
+    <COPYRIGHT/>
+    <GRID width="15">
+DONE.SCHED.FRED
+OLOP.ELENA.OISU
+OISE.AARON.UGHS
+RVER.FIELD.RHET
+KINGDOM.ALITTLE
+NEONGAS.GETHOLD
+ORSEEM.BASS....
+BSES..KEY..PATH
+....WING.TRISHA
+BRASALE.TWISTER
+RESTYLE.HOPTOAD
+ILSA.NSTAR.ONLS
+DIET.ELITE.LIAT
+GENE.SALLE.ESMO
+EFTS.SPELL.SHOP
+</GRID>
+    <WORDS>
+        <WORD dir="ACROSS" id="0" isTheme="false" num="1">With 13 down, title of cowboy romance novel</WORD>
+        <WORD dir="ACROSS" id="1" isTheme="false" num="5">Abbrev. for a reading plan or timetable.</WORD>
+        <WORD dir="ACROSS" id="2" isTheme="false" num="10">Kevin Koe's dad</WORD>
+        <WORD dir="ACROSS" id="3" isTheme="false" num="14">Acronym, ‘One Long Overdue Paperback’</WORD>
+        <WORD dir="ACROSS" id="4" isTheme="false" num="15">Alternate spelling of world champion curler and Hazel's friend on the west end</WORD>
+        <WORD dir="ACROSS" id="5" isTheme="false" num="16">a small borough in Türi Parish</WORD>
+        <WORD dir="ACROSS" id="6" isTheme="false" num="17">A river in France, often appearing in historical romances.</WORD>
+        <WORD dir="ACROSS" id="7" isTheme="false" num="18">_____ Carter, brother of one of the backstreet boys</WORD>
+        <WORD dir="ACROSS" id="8" isTheme="false" num="19">Sounds of exasperation, especially from Karrick while curling.</WORD>
+        <WORD dir="ACROSS" id="9" isTheme="false" num="20">Traveler in a camper.  Something I wanted to be in the summer</WORD>
+        <WORD dir="ACROSS" id="10" isTheme="false" num="21">The _____ of Dreams.</WORD>
+        <WORD dir="ACROSS" id="11" isTheme="false" num="22">Abbrev. of rhetoric</WORD>
+        <WORD dir="ACROSS" id="12" isTheme="false" num="23">With 41 down, book I started reading</WORD>
+        <WORD dir="ACROSS" id="13" isTheme="false" num="25">Give _ _____ bit - Supertramp song</WORD>
+        <WORD dir="ACROSS" id="14" isTheme="false" num="27">Bright light element</WORD>
+        <WORD dir="ACROSS" id="15" isTheme="false" num="28">_____ of yourself.</WORD>
+        <WORD dir="ACROSS" id="16" isTheme="false" num="29">Appear _____ to be.</WORD>
+        <WORD dir="ACROSS" id="17" isTheme="false" num="30"/>
+        <WORD dir="ACROSS" id="18" isTheme="false" num="31">When someone makes things up, or cow poop, abbrev. and plural</WORD>
+        <WORD dir="ACROSS" id="19" isTheme="false" num="32"/>
+        <WORD dir="ACROSS" id="20" isTheme="false" num="33">The hero’s chosen _____.</WORD>
+        <WORD dir="ACROSS" id="21" isTheme="false" num="37"/>
+        <WORD dir="ACROSS" id="22" isTheme="false" num="39">____ Paytas, or _____ Yearwood</WORD>
+        <WORD dir="ACROSS" id="23" isTheme="false" num="41">What Victoria's secret might have</WORD>
+        <WORD dir="ACROSS" id="24" isTheme="false" num="45">Game where you get your feet and arms criss crossed with others</WORD>
+        <WORD dir="ACROSS" id="25" isTheme="false" num="46">Give a new look.</WORD>
+        <WORD dir="ACROSS" id="26" isTheme="false" num="47">Another name for Jump Frog (2 words)</WORD>
+        <WORD dir="ACROSS" id="27" isTheme="false" num="48">Alternate spelling for the ice queen</WORD>
+        <WORD dir="ACROSS" id="28" isTheme="false" num="49">Guiding light in the night sky (abbr.).</WORD>
+        <WORD dir="ACROSS" id="29" isTheme="false" num="51">Overall Neuropathy Limitations Scale </WORD>
+        <WORD dir="ACROSS" id="30" isTheme="false" num="52">What you eat, or a bodybuilding cut</WORD>
+        <WORD dir="ACROSS" id="31" isTheme="false" num="53">____ 10, defunct slam, or how I describe your coaching ability</WORD>
+        <WORD dir="ACROSS" id="32" isTheme="false" num="54">Airline of Antigua and Barbuda.</WORD>
+        <WORD dir="ACROSS" id="33" isTheme="false" num="55">Biological unit.</WORD>
+        <WORD dir="ACROSS" id="34" isTheme="false" num="56">"Room" en francais </WORD>
+        <WORD dir="ACROSS" id="35" isTheme="false" num="57">European Society For Medical Oncology</WORD>
+        <WORD dir="ACROSS" id="36" isTheme="false" num="58">Money transfers by wire, abbrev.</WORD>
+        <WORD dir="ACROSS" id="37" isTheme="false" num="59">First half of a magical romance title involving a store.</WORD>
+        <WORD dir="ACROSS" id="38" isTheme="false" num="60">Second half of the magical romance title</WORD>
+        <WORD dir="DOWN" id="39" isTheme="false" num="1">Main prop in really weird book you read</WORD>
+        <WORD dir="DOWN" id="41" isTheme="false" num="2">British theater awards, named after Laurence.</WORD>
+        <WORD dir="DOWN" id="43" isTheme="false" num="3">What you use to smell, repeated twice</WORD>
+        <WORD dir="DOWN" id="45" isTheme="false" num="4">an ornamental centerpiece for a dining table (I had never heard of this word before FYI)</WORD>
+        <WORD dir="DOWN" id="49" isTheme="false" num="5">Bubbly ocean froth.</WORD>
+        <WORD dir="DOWN" id="51" isTheme="false" num="6">"He _____ the throne"</WORD>
+        <WORD dir="DOWN" id="53" isTheme="false" num="7">ici</WORD>
+        <WORD dir="DOWN" id="56" isTheme="false" num="8">WWII bomber that dropped the atomic bomb</WORD>
+        <WORD dir="DOWN" id="58" isTheme="false" num="9">Bounces a child on one’s knee. (again, never heard of this word)</WORD>
+        <WORD dir="DOWN" id="62" isTheme="false" num="10">With 37 across, ordinal part of the title of this book</WORD>
+        <WORD dir="DOWN" id="64" isTheme="false" num="11">British slang for ‘correct’.</WORD>
+        <WORD dir="DOWN" id="66" isTheme="false" num="12">Mario Kart item: Blu_  _____</WORD>
+        <WORD dir="DOWN" id="68" isTheme="false" num="13">With 1 across, second half of cowboy romance novel</WORD>
+        <WORD dir="DOWN" id="47" isTheme="false" num="24">"If you can do_ a a wrench, you can do___ a ball"</WORD>
+        <WORD dir="DOWN" id="60" isTheme="false" num="26">Every dog has _____ day.</WORD>
+        <WORD dir="DOWN" id="54" isTheme="true" num="30">Plead, as Violet might when facing a dragon</WORD>
+        <WORD dir="DOWN" id="52" isTheme="false" num="32">What Uncle Fred did when Rosie Revere showed him her invention</WORD>
+        <WORD dir="DOWN" id="63" isTheme="false" num="33">Old-style guns.</WORD>
+        <WORD dir="DOWN" id="65" isTheme="false" num="34">Amaze, astound.</WORD>
+        <WORD dir="DOWN" id="67" isTheme="false" num="35">Historic Texas mission.</WORD>
+        <WORD dir="DOWN" id="69" isTheme="false" num="36">You wish Rob's meeting had this</WORD>
+        <WORD dir="DOWN" id="48" isTheme="false" num="37">Love always finds a ___</WORD>
+        <WORD dir="DOWN" id="50" isTheme="false" num="38">Sickness</WORD>
+        <WORD dir="DOWN" id="59" isTheme="false" num="39">Old-style film length.</WORD>
+        <WORD dir="DOWN" id="61" isTheme="false" num="40">Tear apart.</WORD>
+        <WORD dir="DOWN" id="40" isTheme="false" num="41">With 23-across, first word in book I "read"</WORD>
+        <WORD dir="DOWN" id="42" isTheme="false" num="42">What you feel after the kids finally fall asleep</WORD>
+        <WORD dir="DOWN" id="44" isTheme="false" num="43">Agreement</WORD>
+        <WORD dir="DOWN" id="46" isTheme="false" num="44">United _____.</WORD>
+        <WORD dir="DOWN" id="57" isTheme="false" num="45">_____ do, Donkey</WORD>
+        <WORD dir="DOWN" id="55" isTheme="false" num="50">What we put in our bathroom floor</WORD>
+    </WORDS>
+    <NOTES/>
+</CROSSFIRE>
