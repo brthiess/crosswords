@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<CROSSFIRE>
+    <VERSION>1</VERSION>
+    <TITLE/>
+    <AUTHOR/>
+    <COPYRIGHT/>
+    <GRID width="8">
+MUSHROOM
+.TWOONIE
+ONITBOSS
+LEGBONES
+I...TE..
+VERBAL..
+EDOERA..
+SHRIMP..
+</GRID>
+    <WORDS>
+        <WORD dir="ACROSS" id="0" isTheme="false" num="1">Gross food sometimes in pasta sauces</WORD>
+        <WORD dir="ACROSS" id="1" isTheme="false" num="9">The polar bear is on the ___</WORD>
+        <WORD dir="ACROSS" id="2" isTheme="false" num="10">What you say back to your manager when they ask you to do something</WORD>
+        <WORD dir="ACROSS" id="3" isTheme="false" num="11">Tibia and femur, for example</WORD>
+        <WORD dir="ACROSS" id="4" isTheme="false" num="12">'You' en francais</WORD>
+        <WORD dir="ACROSS" id="5" isTheme="false" num="13">Expressed in words</WORD>
+        <WORD dir="ACROSS" id="6" isTheme="false" num="17">Time period of our lives when we ate a lot of Japanese fast food</WORD>
+        <WORD dir="ACROSS" id="7" isTheme="false" num="18">Spider of the seas</WORD>
+        <WORD dir="DOWN" id="9" isTheme="false" num="2">Alternative culture magazine</WORD>
+        <WORD dir="DOWN" id="11" isTheme="false" num="3">Large drink of a beverage</WORD>
+        <WORD dir="DOWN" id="13" isTheme="false" num="4">Sexy Chick</WORD>
+        <WORD dir="DOWN" id="15" isTheme="false" num="5">Automated limb</WORD>
+        <WORD dir="DOWN" id="16" isTheme="false" num="6">Storytime position</WORD>
+        <WORD dir="DOWN" id="17" isTheme="false" num="7">River in northern France</WORD>
+        <WORD dir="DOWN" id="18" isTheme="false" num="8">Riley's face after eating yogurt</WORD>
+        <WORD dir="DOWN" id="8" isTheme="false" num="10">Ted Mosby's theory (plural form).  You like them and I don't.</WORD>
+        <WORD dir="DOWN" id="10" isTheme="false" num="14">Elder Dragon Highlander </WORD>
+        <WORD dir="DOWN" id="12" isTheme="false" num="15">___y is one of Hazel's cousins.</WORD>
+        <WORD dir="DOWN" id="14" isTheme="false" num="16">___jing - City you've visited (the airport at least).</WORD>
+    </WORDS>
+    <NOTES/>
+</CROSSFIRE>
