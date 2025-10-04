@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<CROSSFIRE>
+    <VERSION>1</VERSION>
+    <TITLE/>
+    <AUTHOR/>
+    <COPYRIGHT/>
+    <GRID width="22">
+------.----.----.-----
+------.----.----.-----
+------.----.----.-----
+SMELLSNORMALOVERHERE..
+......--------.-------
+-------------.--------
+-------.----.---------
+PWANIO.----.------....
+----------.-----.-----
+......---.-----.ILLTRY
+----J---.-----.-------
+----U--.-----.NINGNING
+----S-.-----.---......
+----T.-----.POOTHTASTE
+....P-----.----.------
+----U----.----.-------
+----F---.-----M-------
+----F--.------A-......
+..--P---------S-------
+----U.----.---H.------
+----F.----.---I.------
+----F.----.---T.------
+</GRID>
+    <WORDS>
+        <WORD dir="ACROSS" id="0" isTheme="false" num="1"/>
+        <WORD dir="ACROSS" id="1" isTheme="false" num="7"/>
+        <WORD dir="ACROSS" id="2" isTheme="false" num="11"/>
+        <WORD dir="ACROSS" id="3" isTheme="false" num="15"/>
+        <WORD dir="ACROSS" id="4" isTheme="false" num="20"/>
+        <WORD dir="ACROSS" id="5" isTheme="false" num="21"/>
+        <WORD dir="ACROSS" id="6" isTheme="false" num="22"/>
+        <WORD dir="ACROSS" id="7" isTheme="false" num="23"/>
+        <WORD dir="ACROSS" id="8" isTheme="false" num="24"/>
+        <WORD dir="ACROSS" id="9" isTheme="false" num="25"/>
+        <WORD dir="ACROSS" id="10" isTheme="false" num="26"/>
+        <WORD dir="ACROSS" id="11" isTheme="false" num="27"/>
+        <WORD dir="ACROSS" id="12" isTheme="false" num="28"/>
+        <WORD dir="ACROSS" id="13" isTheme="false" num="32"/>
+        <WORD dir="ACROSS" id="14" isTheme="false" num="33"/>
+        <WORD dir="ACROSS" id="15" isTheme="false" num="36"/>
+        <WORD dir="ACROSS" id="16" isTheme="false" num="42"/>
+        <WORD dir="ACROSS" id="17" isTheme="false" num="43"/>
+        <WORD dir="ACROSS" id="18" isTheme="false" num="44"/>
+        <WORD dir="ACROSS" id="19" isTheme="false" num="45"/>
+        <WORD dir="ACROSS" id="20" isTheme="false" num="46"/>
+        <WORD dir="ACROSS" id="21" isTheme="false" num="47"/>
+        <WORD dir="ACROSS" id="22" isTheme="false" num="48"/>
+        <WORD dir="ACROSS" id="23" isTheme="false" num="49"/>
+        <WORD dir="ACROSS" id="24" isTheme="false" num="51"/>
+        <WORD dir="ACROSS" id="25" isTheme="false" num="52"/>
+        <WORD dir="ACROSS" id="26" isTheme="false" num="57"/>
+        <WORD dir="ACROSS" id="27" isTheme="false" num="58"/>
+        <WORD dir="ACROSS" id="28" isTheme="false" num="59"/>
+        <WORD dir="ACROSS" id="29" isTheme="false" num="60"/>
+        <WORD dir="ACROSS" id="30" isTheme="false" num="66"/>
+        <WORD dir="ACROSS" id="31" isTheme="false" num="67"/>
+        <WORD dir="ACROSS" id="32" isTheme="false" num="68"/>
+        <WORD dir="ACROSS" id="33" isTheme="false" num="69"/>
+        <WORD dir="ACROSS" id="34" isTheme="false" num="70"/>
+        <WORD dir="ACROSS" id="35" isTheme="false" num="71"/>
+        <WORD dir="ACROSS" id="36" isTheme="false" num="72"/>
+        <WORD dir="ACROSS" id="37" isTheme="false" num="73"/>
+        <WORD dir="ACROSS" id="38" isTheme="false" num="74"/>
+        <WORD dir="ACROSS" id="39" isTheme="false" num="75"/>
+        <WORD dir="ACROSS" id="40" isTheme="false" num="76"/>
+        <WORD dir="ACROSS" id="41" isTheme="false" num="83"/>
+        <WORD dir="ACROSS" id="42" isTheme="false" num="85"/>
+        <WORD dir="ACROSS" id="43" isTheme="false" num="86"/>
+        <WORD dir="ACROSS" id="44" isTheme="false" num="87"/>
+        <WORD dir="ACROSS" id="45" isTheme="false" num="91"/>
+        <WORD dir="ACROSS" id="46" isTheme="false" num="92"/>
+        <WORD dir="ACROSS" id="47" isTheme="false" num="93"/>
+        <WORD dir="ACROSS" id="48" isTheme="false" num="94"/>
+        <WORD dir="ACROSS" id="49" isTheme="false" num="96"/>
+        <WORD dir="ACROSS" id="50" isTheme="false" num="97"/>
+        <WORD dir="ACROSS" id="51" isTheme="false" num="98"/>
+        <WORD dir="ACROSS" id="52" isTheme="false" num="106"/>
+        <WORD dir="ACROSS" id="53" isTheme="false" num="108"/>
+        <WORD dir="ACROSS" id="54" isTheme="false" num="109"/>
+        <WORD dir="ACROSS" id="55" isTheme="false" num="110"/>
+        <WORD dir="ACROSS" id="56" isTheme="false" num="111"/>
+        <WORD dir="ACROSS" id="57" isTheme="false" num="112"/>
+        <WORD dir="ACROSS" id="58" isTheme="false" num="113"/>
+        <WORD dir="ACROSS" id="59" isTheme="false" num="114"/>
+        <WORD dir="ACROSS" id="60" isTheme="false" num="115"/>
+        <WORD dir="ACROSS" id="61" isTheme="false" num="116"/>
+        <WORD dir="ACROSS" id="62" isTheme="false" num="117"/>
+        <WORD dir="ACROSS" id="63" isTheme="false" num="118"/>
+        <WORD dir="DOWN" id="64" isTheme="false" num="1"/>
+        <WORD dir="DOWN" id="69" isTheme="false" num="2"/>
+        <WORD dir="DOWN" id="74" isTheme="false" num="3"/>
+        <WORD dir="DOWN" id="78" isTheme="false" num="4"/>
+        <WORD dir="DOWN" id="82" isTheme="false" num="5"/>
+        <WORD dir="DOWN" id="85" isTheme="false" num="6"/>
+        <WORD dir="DOWN" id="92" isTheme="false" num="7"/>
+        <WORD dir="DOWN" id="96" isTheme="false" num="8"/>
+        <WORD dir="DOWN" id="99" isTheme="false" num="9"/>
+        <WORD dir="DOWN" id="102" isTheme="false" num="10"/>
+        <WORD dir="DOWN" id="108" isTheme="false" num="11"/>
+        <WORD dir="DOWN" id="111" isTheme="false" num="12"/>
+        <WORD dir="DOWN" id="114" isTheme="false" num="13"/>
+        <WORD dir="DOWN" id="118" isTheme="false" num="14"/>
+        <WORD dir="DOWN" id="125" isTheme="false" num="15"/>
+        <WORD dir="DOWN" id="128" isTheme="false" num="16"/>
+        <WORD dir="DOWN" id="132" isTheme="false" num="17"/>
+        <WORD dir="DOWN" id="136" isTheme="false" num="18"/>
+        <WORD dir="DOWN" id="141" isTheme="false" num="19"/>
+        <WORD dir="DOWN" id="89" isTheme="false" num="29"/>
+        <WORD dir="DOWN" id="105" isTheme="false" num="30"/>
+        <WORD dir="DOWN" id="121" isTheme="false" num="31"/>
+        <WORD dir="DOWN" id="137" isTheme="false" num="34"/>
+        <WORD dir="DOWN" id="142" isTheme="false" num="35"/>
+        <WORD dir="DOWN" id="65" isTheme="false" num="36"/>
+        <WORD dir="DOWN" id="70" isTheme="false" num="37"/>
+        <WORD dir="DOWN" id="75" isTheme="false" num="38"/>
+        <WORD dir="DOWN" id="79" isTheme="false" num="39"/>
+        <WORD dir="DOWN" id="83" isTheme="false" num="40"/>
+        <WORD dir="DOWN" id="86" isTheme="false" num="41"/>
+        <WORD dir="DOWN" id="115" isTheme="false" num="42"/>
+        <WORD dir="DOWN" id="112" isTheme="false" num="45"/>
+        <WORD dir="DOWN" id="93" isTheme="false" num="47"/>
+        <WORD dir="DOWN" id="109" isTheme="false" num="48"/>
+        <WORD dir="DOWN" id="90" isTheme="false" num="50"/>
+        <WORD dir="DOWN" id="106" isTheme="false" num="51"/>
+        <WORD dir="DOWN" id="129" isTheme="false" num="53"/>
+        <WORD dir="DOWN" id="133" isTheme="false" num="54"/>
+        <WORD dir="DOWN" id="138" isTheme="false" num="55"/>
+        <WORD dir="DOWN" id="143" isTheme="false" num="56"/>
+        <WORD dir="DOWN" id="103" isTheme="false" num="58"/>
+        <WORD dir="DOWN" id="122" isTheme="false" num="59"/>
+        <WORD dir="DOWN" id="66" isTheme="false" num="60"/>
+        <WORD dir="DOWN" id="71" isTheme="false" num="61"/>
+        <WORD dir="DOWN" id="76" isTheme="false" num="62"/>
+        <WORD dir="DOWN" id="80" isTheme="false" num="63"/>
+        <WORD dir="DOWN" id="84" isTheme="false" num="64"/>
+        <WORD dir="DOWN" id="87" isTheme="false" num="65"/>
+        <WORD dir="DOWN" id="100" isTheme="false" num="66"/>
+        <WORD dir="DOWN" id="119" isTheme="false" num="67"/>
+        <WORD dir="DOWN" id="97" isTheme="false" num="69"/>
+        <WORD dir="DOWN" id="116" isTheme="false" num="70"/>
+        <WORD dir="DOWN" id="94" isTheme="false" num="72"/>
+        <WORD dir="DOWN" id="113" isTheme="false" num="73"/>
+        <WORD dir="DOWN" id="91" isTheme="false" num="75"/>
+        <WORD dir="DOWN" id="110" isTheme="false" num="76"/>
+        <WORD dir="DOWN" id="123" isTheme="false" num="77"/>
+        <WORD dir="DOWN" id="126" isTheme="false" num="78"/>
+        <WORD dir="DOWN" id="130" isTheme="false" num="79"/>
+        <WORD dir="DOWN" id="134" isTheme="false" num="80"/>
+        <WORD dir="DOWN" id="139" isTheme="false" num="81"/>
+        <WORD dir="DOWN" id="144" isTheme="false" num="82"/>
+        <WORD dir="DOWN" id="88" isTheme="false" num="84"/>
+        <WORD dir="DOWN" id="107" isTheme="false" num="85"/>
+        <WORD dir="DOWN" id="67" isTheme="false" num="87"/>
+        <WORD dir="DOWN" id="72" isTheme="false" num="88"/>
+        <WORD dir="DOWN" id="77" isTheme="false" num="89"/>
+        <WORD dir="DOWN" id="81" isTheme="false" num="90"/>
+        <WORD dir="DOWN" id="104" isTheme="false" num="91"/>
+        <WORD dir="DOWN" id="120" isTheme="false" num="92"/>
+        <WORD dir="DOWN" id="101" isTheme="false" num="94"/>
+        <WORD dir="DOWN" id="117" isTheme="false" num="95"/>
+        <WORD dir="DOWN" id="98" isTheme="false" num="97"/>
+        <WORD dir="DOWN" id="95" isTheme="false" num="99"/>
+        <WORD dir="DOWN" id="124" isTheme="false" num="100"/>
+        <WORD dir="DOWN" id="127" isTheme="false" num="101"/>
+        <WORD dir="DOWN" id="131" isTheme="false" num="102"/>
+        <WORD dir="DOWN" id="135" isTheme="false" num="103"/>
+        <WORD dir="DOWN" id="140" isTheme="false" num="104"/>
+        <WORD dir="DOWN" id="145" isTheme="false" num="105"/>
+        <WORD dir="DOWN" id="68" isTheme="false" num="106"/>
+        <WORD dir="DOWN" id="73" isTheme="false" num="107"/>
+    </WORDS>
+    <NOTES/>
+</CROSSFIRE>

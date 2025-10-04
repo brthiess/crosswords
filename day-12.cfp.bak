@@ -18,47 +18,47 @@ CABIN.TORSI
 HYENA.OWETO
 </GRID>
     <WORDS>
-        <WORD dir="ACROSS" id="0" isTheme="false" num="1"/>
-        <WORD dir="ACROSS" id="1" isTheme="false" num="5"/>
-        <WORD dir="ACROSS" id="2" isTheme="false" num="9"/>
-        <WORD dir="ACROSS" id="3" isTheme="false" num="10"/>
-        <WORD dir="ACROSS" id="4" isTheme="false" num="11"/>
-        <WORD dir="ACROSS" id="5" isTheme="false" num="12"/>
-        <WORD dir="ACROSS" id="6" isTheme="false" num="13"/>
-        <WORD dir="ACROSS" id="7" isTheme="false" num="15"/>
-        <WORD dir="ACROSS" id="8" isTheme="false" num="16"/>
-        <WORD dir="ACROSS" id="9" isTheme="false" num="17"/>
-        <WORD dir="ACROSS" id="10" isTheme="false" num="18"/>
-        <WORD dir="ACROSS" id="11" isTheme="false" num="20"/>
-        <WORD dir="ACROSS" id="12" isTheme="false" num="23"/>
-        <WORD dir="ACROSS" id="13" isTheme="false" num="24"/>
-        <WORD dir="ACROSS" id="14" isTheme="false" num="27"/>
-        <WORD dir="ACROSS" id="15" isTheme="false" num="28"/>
-        <WORD dir="ACROSS" id="16" isTheme="false" num="29"/>
-        <WORD dir="ACROSS" id="17" isTheme="false" num="30"/>
-        <WORD dir="ACROSS" id="18" isTheme="false" num="33"/>
-        <WORD dir="ACROSS" id="19" isTheme="false" num="34"/>
-        <WORD dir="ACROSS" id="20" isTheme="false" num="35"/>
-        <WORD dir="ACROSS" id="21" isTheme="false" num="36"/>
-        <WORD dir="DOWN" id="22" isTheme="false" num="1"/>
-        <WORD dir="DOWN" id="24" isTheme="false" num="2"/>
-        <WORD dir="DOWN" id="26" isTheme="false" num="3"/>
-        <WORD dir="DOWN" id="28" isTheme="false" num="4"/>
-        <WORD dir="DOWN" id="33" isTheme="false" num="5"/>
-        <WORD dir="DOWN" id="35" isTheme="false" num="6"/>
-        <WORD dir="DOWN" id="37" isTheme="false" num="7"/>
-        <WORD dir="DOWN" id="39" isTheme="false" num="8"/>
-        <WORD dir="DOWN" id="30" isTheme="false" num="14"/>
-        <WORD dir="DOWN" id="32" isTheme="false" num="15"/>
-        <WORD dir="DOWN" id="31" isTheme="false" num="19"/>
-        <WORD dir="DOWN" id="23" isTheme="false" num="20"/>
-        <WORD dir="DOWN" id="25" isTheme="false" num="21"/>
-        <WORD dir="DOWN" id="27" isTheme="false" num="22"/>
-        <WORD dir="DOWN" id="36" isTheme="false" num="24"/>
-        <WORD dir="DOWN" id="38" isTheme="false" num="25"/>
-        <WORD dir="DOWN" id="40" isTheme="false" num="26"/>
-        <WORD dir="DOWN" id="29" isTheme="false" num="31"/>
-        <WORD dir="DOWN" id="34" isTheme="false" num="32"/>
+        <WORD dir="ACROSS" id="0" isTheme="false" num="1">State of Peach’s castle after a Bowser “visit”</WORD>
+        <WORD dir="ACROSS" id="1" isTheme="false" num="5">Fast Jamaican</WORD>
+        <WORD dir="ACROSS" id="2" isTheme="false" num="9">“Mario saves Peach, ___ always does”</WORD>
+        <WORD dir="ACROSS" id="3" isTheme="false" num="10">Herman Melville’s sequel to “Typee"</WORD>
+        <WORD dir="ACROSS" id="4" isTheme="false" num="11">Retired Public Employees of Nevada</WORD>
+        <WORD dir="ACROSS" id="5" isTheme="false" num="12">Crying baby goes ___</WORD>
+        <WORD dir="ACROSS" id="6" isTheme="false" num="13">What you might text when you are getting close</WORD>
+        <WORD dir="ACROSS" id="7" isTheme="false" num="15">plasti_ ____ - Storage space outside in backyard. </WORD>
+        <WORD dir="ACROSS" id="8" isTheme="false" num="16">"He's ___ __ lunch!" </WORD>
+        <WORD dir="ACROSS" id="9" isTheme="false" num="17">Detects by ear</WORD>
+        <WORD dir="ACROSS" id="10" isTheme="false" num="18">R_____t - What you do to computer after it freezes</WORD>
+        <WORD dir="ACROSS" id="11" isTheme="false" num="20">Buddy</WORD>
+        <WORD dir="ACROSS" id="12" isTheme="false" num="23">Contains 20-ish% oxygen and 78-ish% nitrogen</WORD>
+        <WORD dir="ACROSS" id="13" isTheme="false" num="24">Internet acronym for reactions - “___ a blue shell hits me”</WORD>
+        <WORD dir="ACROSS" id="14" isTheme="false" num="27">c___al - Common morning and bedtime meal in our house</WORD>
+        <WORD dir="ACROSS" id="15" isTheme="false" num="28">Break a ___</WORD>
+        <WORD dir="ACROSS" id="16" isTheme="false" num="29">Historical period</WORD>
+        <WORD dir="ACROSS" id="17" isTheme="false" num="30">Oversees visual design</WORD>
+        <WORD dir="ACROSS" id="18" isTheme="false" num="33">What we stay in, often in the mountains.</WORD>
+        <WORD dir="ACROSS" id="19" isTheme="false" num="34">Upper bodies</WORD>
+        <WORD dir="ACROSS" id="20" isTheme="false" num="35">Antagonistic animal in Lion King</WORD>
+        <WORD dir="ACROSS" id="21" isTheme="false" num="36">Must pay back</WORD>
+        <WORD dir="DOWN" id="22" isTheme="false" num="1">"It’s-a me, ___!"</WORD>
+        <WORD dir="DOWN" id="24" isTheme="false" num="2">Channel with NCAA games</WORD>
+        <WORD dir="DOWN" id="26" isTheme="false" num="3">What you curl on</WORD>
+        <WORD dir="DOWN" id="28" isTheme="false" num="4">Legislative body</WORD>
+        <WORD dir="DOWN" id="33" isTheme="false" num="5">Mario’s fire-breathing nemesis</WORD>
+        <WORD dir="DOWN" id="35" isTheme="false" num="6">Nebraska city</WORD>
+        <WORD dir="DOWN" id="37" isTheme="false" num="7">Reduce</WORD>
+        <WORD dir="DOWN" id="39" isTheme="false" num="8">Mushroom Kingdom denizens</WORD>
+        <WORD dir="DOWN" id="30" isTheme="false" num="14">Floaty character in Mario 3D world</WORD>
+        <WORD dir="DOWN" id="32" isTheme="false" num="15">Credit</WORD>
+        <WORD dir="DOWN" id="31" isTheme="false" num="19">N64 Rainbow Road is an S-___ track</WORD>
+        <WORD dir="DOWN" id="23" isTheme="false" num="20">Best character in Mario 3D world</WORD>
+        <WORD dir="DOWN" id="25" isTheme="false" num="21">Organized set</WORD>
+        <WORD dir="DOWN" id="27" isTheme="false" num="22">Stop bothering (2 wds.)</WORD>
+        <WORD dir="DOWN" id="36" isTheme="false" num="24">Unit of length in Canada or UK</WORD>
+        <WORD dir="DOWN" id="38" isTheme="false" num="25">What Bernie is afraid of his crops getting on a cold night</WORD>
+        <WORD dir="DOWN" id="40" isTheme="false" num="26">Nintendo antagonist with a "W" on his cap</WORD>
+        <WORD dir="DOWN" id="29" isTheme="false" num="31">Constant noise</WORD>
+        <WORD dir="DOWN" id="34" isTheme="false" num="32">What Moo Moo Meadows is full of</WORD>
     </WORDS>
     <NOTES/>
 </CROSSFIRE>
